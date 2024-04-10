@@ -1,0 +1,6 @@
+integrationServer:
+  configurations:
+    serverconf:
+      - create-customer-serverconf.yaml
+    policyproject:
+      - create-customer-policy

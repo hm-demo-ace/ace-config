@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<policies>
+  <policy policyType="UserDefined" policyName="backendurl" policyTemplate="UserDefined">
+    <soapEndpoint>http://soapserver-nonsecure.tools.svc:8080/ws</soapEndpoint>
+  </policy>
+</policies>
